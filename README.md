@@ -104,5 +104,6 @@ This is an educational demonstration project. It uses demo inputs and is not val
 Created for academic learning and demonstration purposes.
 
 ---
+LINKEDIN - https://www.linkedin.com/in/aman-kumar-b05056422?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Developed by Aman Kumar | COER University
